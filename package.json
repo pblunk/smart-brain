@@ -19,8 +19,8 @@
     "react-scripts": "5.0.1",
     "serve": "^14.2.3",
     "tachyons": "^4.12.0",
-    "web-vitals": "^2.1.4",
-    "typescript": "^5.5.4"
+    "typescript": "^4.9.5",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "serve -s build",
